@@ -17,5 +17,8 @@
     "url": "https://github.com/VincenzoFerraro0/express-blog-intro/issues"
   },
   "homepage": "https://github.com/VincenzoFerraro0/express-blog-intro#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
